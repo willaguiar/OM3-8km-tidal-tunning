@@ -18,7 +18,7 @@ Meeting highlights:
 
 - TPXO9 have very large amplitude biases for M2 and K1 components at the [continental shelf of the Weddell Sea](https://github.com/willaguiar/OM3-8km-tidal-tunning/blob/main/Validation/Jupyter/compare_TPXO9_AntTG_M2.ipynb). So we will use tidal gauges instead for validation of tidal amplitudes over the continental shelf. For off-shelf validation we can still use TPXO9.
 - We have a version of the rOM3 model running with tides, and without ice shelf cavities, but the model is yet too slow/expensive/impractical for running over the 1 year length required to validate barotropic and baroclinic components. Angus is working with NRI to optimize the model by tunning core counts and expiditing the generation of reggriding weights.
-- Some of the tital gauge data is under ice shelf ccavities, so it would good the have the model running with both cavities and tides.
+- Some of the tidal gauge data is under ice shelf cavities, so it would be good to have the model running with both cavities and tides.
 
 
 
